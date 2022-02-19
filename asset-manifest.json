@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/CianDoyleTUD/CianDoyleTUD.github.io/static/css/main.073c9b0a.css",
-    "main.js": "/CianDoyleTUD/CianDoyleTUD.github.io/static/js/main.b2ea0186.js",
-    "static/js/787.17c1a72c.chunk.js": "/CianDoyleTUD/CianDoyleTUD.github.io/static/js/787.17c1a72c.chunk.js",
-    "static/media/logo.svg": "/CianDoyleTUD/CianDoyleTUD.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/CianDoyleTUD/CianDoyleTUD.github.io/index.html",
-    "main.073c9b0a.css.map": "/CianDoyleTUD/CianDoyleTUD.github.io/static/css/main.073c9b0a.css.map",
-    "main.b2ea0186.js.map": "/CianDoyleTUD/CianDoyleTUD.github.io/static/js/main.b2ea0186.js.map",
-    "787.17c1a72c.chunk.js.map": "/CianDoyleTUD/CianDoyleTUD.github.io/static/js/787.17c1a72c.chunk.js.map"
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.6448292a.js",
+    "static/js/787.17c1a72c.chunk.js": "/static/js/787.17c1a72c.chunk.js",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.6448292a.js.map": "/static/js/main.6448292a.js.map",
+    "787.17c1a72c.chunk.js.map": "/static/js/787.17c1a72c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.b2ea0186.js"
+    "static/js/main.6448292a.js"
   ]
 }
